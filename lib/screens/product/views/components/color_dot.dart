@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shop/components/check_mark.dart';
+import 'package:jewelryapp/components/check_mark.dart';
 
 import '../../../../constants.dart';
 
